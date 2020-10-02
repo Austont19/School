@@ -8,9 +8,9 @@ on the command prompt if you are either too high or too low and continues to nar
 you get the right number. Throughout the game it counts your tries so once you eventually guess
 the right number you will be told how many tries it took you to guess it.
 
-# The Code
+## The Code
 The code here is basic but it accomplishes what it needs to do in a small form factor so this game can be carried virtually anywhere youd like it to be
-
+The program revolves around a while loop that runs through a if and else to figure out if your input matches the random number the program makes from the Math.Random operator.
 ### 
 
 
@@ -38,7 +38,7 @@ The code here is basic but it accomplishes what it needs to do in a small form f
 
 ## Technologies
 The project was created with Net Beans IDE
-Using Java 8
-It should run on any computer as long as you have Java 8 installed
+Using Java 8.
+So it should run on any computer as long as you have Java 8 installed
 ## Setup
-To run simply just run the .java file provided 
+To run simply just run the .java file provided and enjoy the game
