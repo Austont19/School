@@ -36,11 +36,12 @@ The program revolves around a while loop that runs through a if and else to figu
     }
     
 }
-
+## Future Plans
+I plan to carry this project forward and devolp it into a bigger game maybe add a full gui and graphics to it to expand my knowledge in java. Even though its a super simple game trying new stuff out on a smaller scale i feel will help me in growth as I get a chance to take in new stuff on my own pace.
 
 ## Technologies
 The project was created with Net Beans IDE
 Using Java 8.
 So it should run on any computer as long as you have Java 8 installed
 ## Setup
-To run simply just run the .java file provided and enjoy the game
+To run simply just run the .java file provided and it should carry you to the termninal screen with the beginning of the game to allow you to start playing along with it.
